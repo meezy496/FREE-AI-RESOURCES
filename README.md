@@ -44,6 +44,10 @@ free-ai-resources-arjun/
     ├── natural-language-processing.md
     ├── computer-vision.md
     ├── reinforcement-learning.md
+    ├── prompt-engineering.md
+    ├── mlops.md
+    ├── ai-ethics.md
+    ├── mathematics-for-ai.md
     ├── ai-tools-frameworks.md
     ├── research-papers-publications.md
     └── datasets-benchmarks.md
@@ -78,6 +82,10 @@ Resources are categorized by subject area, making it easy to find exactly what y
 - Natural Language Processing
 - Computer Vision
 - Reinforcement Learning
+- Prompt Engineering
+- MLOps
+- AI Ethics & Responsible AI
+- Mathematics for AI
 - AI Tools & Frameworks
 - Research Papers & Publications
 - Datasets & Benchmarks
@@ -132,6 +140,42 @@ Learning through interaction with environments.
 - Deep Q-Networks (DQN)
 - Actor-Critic methods
 - Multi-agent reinforcement learning
+
+### ✨ [Prompt Engineering](resources/prompt-engineering.md)
+
+Techniques for crafting effective prompts for LLMs and generative AI.
+
+- Prompt design and optimization
+- Advanced prompting techniques (Chain-of-Thought, Few-Shot)
+- Prompt templates and frameworks
+- Responsible AI prompting practices
+
+### 🛠️ [MLOps](resources/mlops.md)
+
+Best practices for deploying and maintaining ML models in production.
+
+- ML model deployment and serving
+- Experiment tracking and model versioning
+- Workflow orchestration and ML pipelines
+- Model monitoring and drift detection
+
+### ⚖️ [AI Ethics & Responsible AI](resources/ai-ethics.md)
+
+Ethical considerations and frameworks for responsible AI development.
+
+- Ethical principles for AI development
+- Bias detection and mitigation
+- Fairness, accountability, and transparency
+- AI governance and regulation
+
+### 🔢 [Mathematics for AI](resources/mathematics-for-ai.md)
+
+Essential mathematical foundations for understanding AI and ML algorithms.
+
+- Linear algebra (vectors, matrices, eigenvalues)
+- Calculus (derivatives, gradients, optimization)
+- Probability theory and statistics
+- Optimization theory
 
 ### 🛠️ [AI Tools & Frameworks](resources/ai-tools-frameworks.md)
 
@@ -238,4 +282,4 @@ For questions, suggestions, or feedback:
 
 ⭐ **If you find this repository helpful, please consider giving it a star!**
 
-**Last Updated**: October 2025
+**Last Updated**: November 2025
