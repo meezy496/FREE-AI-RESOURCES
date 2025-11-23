@@ -1,10 +1,10 @@
 # 🤖 Free AI Resources - Curated Collection
 
-> A comprehensive collection of **90+ high-quality, freely accessible AI resources** for learners, developers, and researchers.
+> A comprehensive collection of **101+ high-quality, freely accessible AI resources** for learners, developers, and researchers.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Resources](https://img.shields.io/badge/resources-90+-blue.svg)](https://github.com/ArjunFrancis/FREE-AI-RESOURCES)
+[![Resources](https://img.shields.io/badge/resources-101+-blue.svg)](https://github.com/ArjunFrancis/FREE-AI-RESOURCES)
 [![Categories](https://img.shields.io/badge/categories-12-green.svg)](https://github.com/ArjunFrancis/FREE-AI-RESOURCES/tree/main/resources)
 
 ## 📚 Table of Contents
@@ -33,10 +33,10 @@ The collection focuses on:
 
 ## 📈 Repository Statistics
 
-- **Total Resources:** 90+ (and growing)
+- **Total Resources:** 101+ (and growing)
 - **Categories:** 12 comprehensive topics
-- **Average per Category:** 7.5 resources
-- **Top Categories:** Datasets & Benchmarks (18), Prompt Engineering (14)
+- **Average per Category:** 8.4 resources
+- **Top Categories:** Datasets & Benchmarks (18), Prompt Engineering (14), Computer Vision (9)
 - **Contributors:** Community-driven
 - **License:** MIT (100% Free)
 - **Last Updated:** November 23, 2025
@@ -69,10 +69,10 @@ free-ai-resources-arjun/
     ├── machine-learning-fundamentals.md       (7 resources)
     ├── deep-learning-neural-networks.md       (6 resources)
     ├── natural-language-processing.md         (6 resources)
-    ├── computer-vision.md                     (6 resources)
+    ├── computer-vision.md                     (9 resources)
     ├── reinforcement-learning.md              (5 resources)
     ├── prompt-engineering.md                  (14 resources)
-    ├── mlops.md                               (6 resources)
+    ├── mlops.md                               (7 resources)
     ├── ai-ethics.md                           (7 resources)
     ├── mathematics-for-ai.md                  (8 resources)
     ├── ai-tools-frameworks.md                 (5 resources)
