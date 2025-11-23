@@ -1,13 +1,16 @@
 # 🤖 Free AI Resources - Curated Collection
 
-> A comprehensive collection of high-quality, freely accessible AI resources for learners, developers, and researchers.
+> A comprehensive collection of **90+ high-quality, freely accessible AI resources** for learners, developers, and researchers.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Resources](https://img.shields.io/badge/resources-90+-blue.svg)](https://github.com/ArjunFrancis/FREE-AI-RESOURCES)
+[![Categories](https://img.shields.io/badge/categories-12-green.svg)](https://github.com/ArjunFrancis/FREE-AI-RESOURCES/tree/main/resources)
 
 ## 📚 Table of Contents
 
 - [About This Repository](#about-this-repository)
+- [Repository Statistics](#repository-statistics)
 - [Repository Structure](#repository-structure)
 - [What Makes These Resources Special](#what-makes-these-resources-special)
 - [Resource Categories](#resource-categories)
@@ -28,6 +31,30 @@ The collection focuses on:
 - **Practical learning**: Emphasis on hands-on projects and real-world applications
 - **Continuous updates**: Regular additions and maintenance
 
+## 📈 Repository Statistics
+
+- **Total Resources:** 90+ (and growing)
+- **Categories:** 12 comprehensive topics
+- **Average per Category:** 7.5 resources
+- **Top Categories:** Datasets & Benchmarks (18), Prompt Engineering (14)
+- **Contributors:** Community-driven
+- **License:** MIT (100% Free)
+- **Last Updated:** November 23, 2025
+
+## 🔓 100% Free & Open Access Commitment
+
+✅ **Completely free** (no payment required)  
+✅ **Globally accessible** (not region-restricted)  
+✅ **Legally distributed** (authorized sources only)  
+✅ **Ethically sourced** (respects creator rights)
+
+### We do NOT link to:
+
+❌ Pirated or unauthorized content  
+❌ Paywalled resources  
+❌ Time-limited trials requiring payment  
+❌ Resources requiring paid subscriptions for core content
+
 ## 📁 Repository Structure
 
 The repository is organized as follows:
@@ -39,18 +66,18 @@ free-ai-resources-arjun/
 ├── CODE_OF_CONDUCT.md                # Community guidelines
 ├── CONTRIBUTING.md                    # Contribution guidelines
 └── resources/                         # Resource files by category
-    ├── machine-learning-fundamentals.md
-    ├── deep-learning-neural-networks.md
-    ├── natural-language-processing.md
-    ├── computer-vision.md
-    ├── reinforcement-learning.md
-    ├── prompt-engineering.md
-    ├── mlops.md
-    ├── ai-ethics.md
-    ├── mathematics-for-ai.md
-    ├── ai-tools-frameworks.md
-    ├── research-papers-publications.md
-    └── datasets-benchmarks.md
+    ├── machine-learning-fundamentals.md       (7 resources)
+    ├── deep-learning-neural-networks.md       (6 resources)
+    ├── natural-language-processing.md         (6 resources)
+    ├── computer-vision.md                     (6 resources)
+    ├── reinforcement-learning.md              (5 resources)
+    ├── prompt-engineering.md                  (14 resources)
+    ├── mlops.md                               (6 resources)
+    ├── ai-ethics.md                           (7 resources)
+    ├── mathematics-for-ai.md                  (8 resources)
+    ├── ai-tools-frameworks.md                 (5 resources)
+    ├── research-papers-publications.md        (2 resources)
+    └── datasets-benchmarks.md                 (18 resources)
 ```
 
 Each category file in the `/resources` directory contains:
@@ -282,4 +309,4 @@ For questions, suggestions, or feedback:
 
 ⭐ **If you find this repository helpful, please consider giving it a star!**
 
-**Last Updated**: November 2025
+**Last Updated**: November 23, 2025
