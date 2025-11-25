@@ -24,12 +24,12 @@ Generative AI represents one of the most transformative developments in artifici
   - 🏛️ **Source:** Google Cloud Skills  
   - [Tags: `introduction` `google-cloud` `beginner` `genai-basics` `llm-overview`]
 
-- **[Free Generative AI Course with Certificate by Simplilearn](https://www.simplilearn.com/free-generative-ai-course-skillup)** - Beginner-friendly 1-hour course powered by Google Cloud covering fundamental principles, model types, applications, and real-world use cases of Generative AI. Includes completion certificate.
+- **[Free Generative AI Course with Certificate (Simplilearn & Google Cloud)](https://www.simplilearn.com/free-generative-ai-course-skillup)** **(Beginner)** - Concise, beginner-friendly 1-hour introduction to Generative AI, powered by Google Cloud. Covers the fundamental principles, applications, and transformative industry uses of generative AI. Fully free, no prerequisites, includes a certificate of completion. Accessible worldwide and ideal for those starting their generative AI journey.
   - 📖 **Access:** Fully open, free certificate  
   - ⏱️ **Duration:** 1 hour  
   - 📜 **Certificate:** Yes (free)  
-  - 🏛️ **Source:** Simplilearn SkillUp  
-  - [Tags: `beginner` `certificate` `google-powered` `genai-fundamentals`]
+  - 🏛️ **Source:** Simplilearn SkillUp & Google Cloud  
+  - [Tags: `beginner` `generative-ai` `free-course` `certificate` `google-cloud` `introduction` `content-generation` `2025`]
 
 ### 🟡 Intermediate
 
@@ -50,12 +50,12 @@ Generative AI represents one of the most transformative developments in artifici
   - 🛠️ **Hands-on:** Yes (code labs with Diffusers library)  
   - 🏛️ **Source:** Hugging Face  
   - **Topics Covered:**  
-    - 👩🎓 Theory behind diffusion models  
+    - 👩‍🎓 Theory behind diffusion models  
     - 🧨 Image & audio generation with Diffusers  
-    - 🏋️♂️ Train diffusion models from scratch  
+    - 🏋️‍♂️ Train diffusion models from scratch  
     - 📻 Fine-tune on new datasets  
     - 🗺 Conditional generation and guidance  
-    - 🧑🔬 Create custom pipelines  
+    - 🧑‍🔬 Create custom pipelines  
   - [Tags: `diffusion-models` `stable-diffusion` `image-generation` `huggingface` `pytorch` `hands-on`]
 
 - **[How Diffusion Models Work - DeepLearning.AI](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/)** - 1-hour hands-on course where you build a diffusion model from scratch. Covers the diffusion process, noise prediction, personalized image generation, sampling, training, and optimizing diffusion models through Jupyter notebooks and practical labs.
@@ -70,7 +70,7 @@ Generative AI represents one of the most transformative developments in artifici
 - **[Technical Fundamentals of Generative AI - Stanford Online](https://online.stanford.edu/courses/xfm110-technical-fundamentals-generative-ai)** - Conference-style course featuring distinguished Stanford faculty and experts from Stanford HAI. Covers deep technical principles of foundation models, LLM training, prompt engineering, benchmarking, multimodal systems, and broader societal implications. Designed for leaders and practitioners who need profound understanding of technical architecture and human-centered AI.
   - 📖 **Access:** Course info freely available, [YouTube lectures free](https://www.youtube.com/watch?v=CFrziAQ85WE)  
   - 🏛️ **Source:** Stanford University + Stanford HAI  
-  - 👨🏫 **Faculty:** Multiple Stanford experts  
+  - 👨‍🏫 **Faculty:** Multiple Stanford experts  
   - **Learning Outcomes:**  
     - Strategies for selecting, building, and training foundation models  
     - LLM performance optimization and cost minimization  
@@ -83,7 +83,7 @@ Generative AI represents one of the most transformative developments in artifici
 - **[MIT 6.S087: Foundation Models & Generative AI](https://www.futureofai.mit.edu/)** - Comprehensive MIT course covering the latest breakthroughs in foundation models and generative AI. Topics include transformers, auto-encoders, denoising, diffusion models, LLMs, autonomous agents, AI ethics, and regulations. Features lectures from MIT professors including Professor Manolis Kellis.
   - 📖 **Access:** [YouTube lectures free](https://www.youtube.com/watch?v=y1fGlAECNFM)  
   - 🏛️ **Source:** MIT  
-  - 👨🏫 **Instructors:** MIT faculty including Prof. Manolis Kellis  
+  - 👨‍🏫 **Instructors:** MIT faculty including Prof. Manolis Kellis  
   - **Topics Covered:**  
     - Transformers architecture  
     - Auto-encoders  
@@ -219,8 +219,8 @@ Found a great **free** Generative AI resource? We'd love to add it!
 
 ---
 
-**Last Updated:** November 24, 2025  
-**Total Resources:** 15  
+**Last Updated:** November 25, 2025  
+**Total Resources:** 16  
 **Maintained by:** [@ArjunFrancis](https://github.com/ArjunFrancis)
 
 ---
