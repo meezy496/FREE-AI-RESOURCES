@@ -52,10 +52,11 @@ MLOps (Machine Learning Operations) is the practice of collaboration between dat
   - 🌍 Authority: Google Cloud (official source)
   - [Tags: official google-cloud mlops-architecture ci-cd]
 
-- [IBM MLOps Guide (PDF)](https://ibm.github.io/MLOps/pdf/mlops-guide.pdf) **(Intermediate/Advanced)** - Comprehensive 34-page guide from IBM covering MLOps with Cloud Pak for Data, CRISP-DM methodology, Watson services, model governance, and enterprise MLOps implementation strategies.
+- [IBM MLOps Guide (PDF)](https://ibm.github.io/MLOps/pdf/mlops-guide.pdf) **(Beginner/Intermediate)** - Comprehensive, beginner-accessible and authoritative MLOps guide by IBM, covering the practical implementation of MLOps in real-world projects. Includes detailed walkthroughs of automated pipelines, model monitoring, data engineering, CI/CD, and responsible AI lifecycle management. No login required, 100% free, high industry credibility.
   - 📖 Access: Fully open, downloadable PDF
   - 🌍 Authority: IBM (official source)
-  - [Tags: intermediate enterprise-mlops watson governance]
+  - ⏱️ Length: Comprehensive guide
+  - [Tags: beginner intermediate mlops machine-learning-operations model-deployment pipelines ibm free automation production ci-cd ai-lifecycle 2025]
 
 ### 🔴 Advanced
 
@@ -115,6 +116,6 @@ Found a great free MLOps resource? We'd love to add it!
 
 ---
 
-**Last Updated:** November 23, 2025 | **Total Resources:** 7
+**Last Updated:** November 25, 2025 | **Total Resources:** 8
 
 **Keywords:** mlops, machine-learning-operations, model-deployment, ml-monitoring, ml-pipelines, experiment-tracking, mlflow, kubeflow, model-serving, drift-detection, continuous-training, devops-for-ml, production-ml, ml-infrastructure
