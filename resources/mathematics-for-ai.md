@@ -61,6 +61,13 @@ Mathematics forms the theoretical foundation of AI and machine learning. Underst
 
 ### 🟡 Intermediate
 
+- [Mathematics for Machine Learning (Coursera, Imperial College London)](https://www.coursera.org/specializations/mathematics-machine-learning) **(Beginner/Intermediate)** - Free foundational specialization from Imperial College London (via Coursera) that covers essential linear algebra, multivariate calculus, and PCA (Principal Component Analysis) concepts for AI/ML. Suitable for absolute beginners and those refreshing core math skills for machine learning. Audit for free (certificate available with fee).
+  - 📖 Access: Free audit available (certificate requires fee)
+  - 🏛️ Source: Imperial College London (Coursera)
+  - 👨‍🏫 Instructors: Imperial College London faculty
+  - ⚠️ Note: Requires free Coursera account
+  - [Tags: beginner intermediate mathematics-for-ai linear-algebra calculus statistics machine-learning imperial-college-london free-course fundamentals 2025]
+
 - [MIT OpenCourseWare - Linear Algebra (18.06) by Gilbert Strang](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) **(Intermediate)** - Legendary MIT course covering matrix operations, vector spaces, eigenvalues, positive definite matrices, and applications with full lecture videos, assignments, and exams. One of the most popular math courses for ML practitioners.
   - 📖 Access: Fully open, MIT OCW
   - 🌍 Authority: MIT (Professor Gilbert Strang)
@@ -108,6 +115,6 @@ Found a great free mathematics resource for AI/ML? We'd love to add it!
 
 ---
 
-**Last Updated:** November 23, 2025 | **Total Resources:** 8
+**Last Updated:** November 25, 2025 | **Total Resources:** 9
 
-**Keywords:** mathematics-for-machine-learning, linear-algebra, calculus, probability-theory, statistics, optimization, matrix-computation, eigenvalues, gradient-descent, multivariate-calculus, mathematical-foundations, ml-math, 3blue1brown, mit-ocw, khan-academy
+**Keywords:** mathematics-for-machine-learning, linear-algebra, calculus, probability-theory, statistics, optimization, matrix-computation, eigenvalues, gradient-descent, multivariate-calculus, mathematical-foundations, ml-math, 3blue1brown, mit-ocw, khan-academy, imperial-college-london
